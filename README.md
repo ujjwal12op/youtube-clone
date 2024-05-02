@@ -1,3 +1,6 @@
+# Since this is made by using a Free API it has a limit for the number of requests. If it shows Error:429 that means you just need to wait or make a new account in Rapid API and replace the key.
+# API used : https://rapidapi.com/ytdlfree/api/youtube-v31?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
+
 # Deployed Link https://66336497cfe16ba9ac2f7ecd--superb-scone-b25133.netlify.app/
 # Getting Started with Create React App
 

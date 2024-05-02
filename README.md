@@ -6,9 +6,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## How to use ?
 
-In the project directory, you can run:
+1) Just clone the repository.
+2) Go in the Rapid API website ,  in the above link , just get the key and replace in the .env file.
+3) Now just write npm start in the terminal.
 
 ### `npm start`
 
